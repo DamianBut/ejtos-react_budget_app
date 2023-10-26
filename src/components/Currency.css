@@ -1,0 +1,9 @@
+.custom-dropdown {
+    background-color: green;
+    color: white; /* Text color */
+}
+
+.custom-dropdown:hover {
+    background-color: white; /* Change background color on hover */
+    color: green; /* Change text color on hover */
+}
