@@ -1,6 +1,13 @@
+/* Currency.css */
+
 .custom-dropdown {
     background-color: green;
     color: white; /* Text color */
+}
+
+.custom-dropdown option {
+    background-color: green; /* Background color of dropdown options */
+    color: white; /* Text color of dropdown options */
 }
 
 .custom-dropdown:hover {
